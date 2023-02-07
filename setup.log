@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.11)  7 FEB 2023 18:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.11)  7 FEB 2023 18:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -849,15 +849,17 @@ Package microtype Info: Loading generic protrusion settings for font family
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-)) (./main.tex [1.1{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+)) (./related.tex [1.1{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
-]
+]) (./main.tex
+Underfull \vbox (badness 3088) has occurred while \output is active []
+
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 54.
+(Font)              scaled to size 9.0pt on input line 29.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/it' will be
-(Font)              scaled to size 9.0pt on input line 54.
+(Font)              scaled to size 9.0pt on input line 29.
 
-Underfull \hbox (badness 10000) in paragraph at lines 56--57
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
 
  []
 
@@ -865,12 +867,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--57
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 6.0pt on input line 71.
+(Font)              scaled to size 6.0pt on input line 42.
  [2.2]
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 7.3pt on input line 72.
+(Font)              scaled to size 7.3pt on input line 47.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 5.5pt on input line 72.
+(Font)              scaled to size 5.5pt on input line 47.
 )
 No file setup.bbl.
 (/usr/local/texlive/2022/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
@@ -893,21 +895,21 @@ Package balance Warning: You have called \balance in second column
 
 [3.3] (./setup.aux)
 Package rerunfilecheck Info: File `setup.out' has not changed.
-(rerunfilecheck)             Checksum: 11A5BC92D11C1E0840ACAF608418A9C8;3549.
+(rerunfilecheck)             Checksum: 653AF36E5176CB3C2253AFDB8432E866;2771.
  ) 
 Here is how much of TeX's memory you used:
- 21496 strings out of 478268
- 349829 string characters out of 5846347
- 719471 words of memory out of 5000000
- 38834 multiletter control sequences out of 15000+600000
+ 21489 strings out of 478268
+ 349714 string characters out of 5846347
+ 719872 words of memory out of 5000000
+ 38830 multiletter control sequences out of 15000+600000
  597977 words of font info for 230 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
  84i,11n,131p,1315b,404s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/libertine/LinBiolinumT.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/libertine/LinBiolinumTB.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/libertine/LinBiolinumTI.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/txsys.pfb>
-Output written on setup.pdf (3 pages, 409142 bytes).
+Output written on setup.pdf (3 pages, 410585 bytes).
 PDF statistics:
- 193 PDF objects out of 1000 (max. 8388607)
- 168 compressed objects within 2 object streams
- 49 named destinations out of 1000 (max. 500000)
- 67777 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 168 PDF objects out of 1000 (max. 8388607)
+ 143 compressed objects within 2 object streams
+ 43 named destinations out of 1000 (max. 500000)
+ 67729 words of extra memory for PDF output out of 74296 (max. 10000000)
 
