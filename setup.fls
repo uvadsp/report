@@ -1238,6 +1238,10 @@ INPUT /usr/local/texlive/2022/texmf-dist/fonts/vf/public/libertine/LinBiolinumTI
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/libertine/LinBiolinumTI-tlf-t1--base.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/vf/public/libertine/LinLibertineT-tlf-t1.vf
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/libertine/LinLibertineT-tlf-t1--base.tfm
+INPUT ./results.tex
+INPUT results.tex
+INPUT ./results.tex
+INPUT results.tex
 INPUT ./main.tex
 INPUT main.tex
 INPUT ./main.tex

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.11)  7 FEB 2023 19:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.11)  7 FEB 2023 20:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -868,19 +868,25 @@ Overfull \hbox (1.57298pt too wide) in paragraph at lines 70--72
  \T1/LinuxBiolinumT-TLF/m/it/9 (-20) 3.3.1 Hy-poth-e-sis.[] \T1/LinuxLibertineT-TLF/m/n/9 (-20) To iden-tify event-based drug pop-u-lar-ity at events
  []
 
-[3.3]) (./main.tex
+[3.3]) (./results.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
+ [4.4] [5.5]) (./main.tex
 Underfull \hbox (badness 10000) in paragraph at lines 23--24
 
  []
 
-[4.4]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6.6]
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 7.3pt on input line 39.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 5.5pt on input line 39.
+
+Underfull \vbox (badness 7796) has occurred while \output is active []
+
 )
 No file setup.bbl.
 (/usr/local/texlive/2022/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
@@ -901,23 +907,23 @@ Class acmart Warning: CCS concepts are mandatory for papers over two pages.
 Package balance Warning: You have called \balance in second column
 (balance)                Columns might not be balanced.
 
-[5.5] (./setup.aux)
+[7.7] (./setup.aux)
 Package rerunfilecheck Info: File `setup.out' has not changed.
-(rerunfilecheck)             Checksum: 4B161ABFA2BF9A9E772662E253D36E8D;2152.
+(rerunfilecheck)             Checksum: BB127B9FCA489890664FD29DFE172352;2811.
  ) 
 Here is how much of TeX's memory you used:
- 21523 strings out of 478268
- 350428 string characters out of 5846347
- 720479 words of memory out of 5000000
- 38831 multiletter control sequences out of 15000+600000
- 600050 words of font info for 243 fonts, out of 8000000 for 9000
+ 21551 strings out of 478268
+ 350822 string characters out of 5846347
+ 719967 words of memory out of 5000000
+ 38837 multiletter control sequences out of 15000+600000
+ 600323 words of font info for 245 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 84i,11n,131p,1315b,404s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,11n,131p,1315b,497s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/libertine/LinBiolinumT.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/libertine/LinBiolinumTB.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/libertine/LinBiolinumTI.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/txsys.pfb>
-Output written on setup.pdf (5 pages, 424866 bytes).
+Output written on setup.pdf (7 pages, 438533 bytes).
 PDF statistics:
- 183 PDF objects out of 1000 (max. 8388607)
- 156 compressed objects within 2 object streams
- 54 named destinations out of 1000 (max. 500000)
- 67721 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 222 PDF objects out of 1000 (max. 8388607)
+ 193 compressed objects within 2 object streams
+ 70 named destinations out of 1000 (max. 500000)
+ 67753 words of extra memory for PDF output out of 74296 (max. 10000000)
 
