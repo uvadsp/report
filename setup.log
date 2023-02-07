@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.11)  7 FEB 2023 20:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.11)  7 FEB 2023 21:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1459,12 +1459,12 @@ Overfull \hbox (6.70131pt too wide) in paragraph at lines 101--102
 []\T1/LinuxLibertineT-TLF/m/n/9 (-20) For the charts the JavaScript charting library Chart.js [][][] is integrated
  []
 
-) (./chapters/discussion.tex) (./chapters/conclusion.tex) (./chapters/future.tex)
-Overfull \hbox (5.21829pt too wide) in paragraph at lines 12--45
+) (./chapters/discussion.tex) (./chapters/conclusion.tex) (./chapters/future.tex) (./chapters/acknowledgement.tex
+Overfull \hbox (5.21829pt too wide) in paragraph at lines 12--1
 \T1/LinuxLibertineT-TLF/m/n/9 (-20) data-gathering tools fare good indicators for predicting the popularity
  []
 
-(./setup.bbl
+) (./setup.bbl
 
 Package natbib Warning: Empty `thebibliography' environment on input line 40.
 
@@ -1487,21 +1487,21 @@ Class acmart Warning: CCS concepts are mandatory for papers over two pages.
 
 (./setup.aux (./meta/metadata.aux) (./meta/abstract.aux) (./meta/keywords.aux) (./meta/header.aux) (./appendix.aux))
 Package rerunfilecheck Info: File `setup.out' has not changed.
-(rerunfilecheck)             Checksum: 96FA37B27C2CAFD08A7701ED8C304B97;2495.
+(rerunfilecheck)             Checksum: BE5B4956BCE9D2EF3E504E9CD82D8F6C;2627.
  ) 
 Here is how much of TeX's memory you used:
- 23035 strings out of 478268
- 379593 string characters out of 5846347
- 753054 words of memory out of 5000000
- 40259 multiletter control sequences out of 15000+600000
+ 23043 strings out of 478268
+ 379790 string characters out of 5846347
+ 753023 words of memory out of 5000000
+ 40263 multiletter control sequences out of 15000+600000
  610110 words of font info for 275 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
  84i,11n,131p,1323b,509s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/libertine/LinBiolinumT.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/libertine/LinBiolinumTB.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/libertine/LinBiolinumTI.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/txsys.pfb>
-Output written on setup.pdf (7 pages, 436386 bytes).
+Output written on setup.pdf (7 pages, 436726 bytes).
 PDF statistics:
- 201 PDF objects out of 1000 (max. 8388607)
- 172 compressed objects within 2 object streams
- 57 named destinations out of 1000 (max. 500000)
- 69785 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 205 PDF objects out of 1000 (max. 8388607)
+ 176 compressed objects within 2 object streams
+ 58 named destinations out of 1000 (max. 500000)
+ 69793 words of extra memory for PDF output out of 74296 (max. 10000000)
 
