@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.11)  7 FEB 2023 17:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.11)  7 FEB 2023 17:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -871,7 +871,9 @@ LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-)
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 6.0pt on input line 94.
+ [2.2])
 No file setup.bbl.
 (/usr/local/texlive/2022/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
 File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
@@ -885,28 +887,28 @@ Class acmart Warning: ACM reference format is mandatory
 (acmart)              \settopmatter command..
 
 
-Package balance Warning: You have called \balance in second column
-(balance)                Columns might not be balanced.
+Class acmart Warning: CCS concepts are mandatory for papers over two pages.
 
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 6.0pt on input line 35.
-[2.2] (./setup.aux)
+
+Overfull \vbox (1.799pt too high) has occurred while \output is active []
+
+ [3.3] (./setup.aux)
 Package rerunfilecheck Info: File `setup.out' has not changed.
-(rerunfilecheck)             Checksum: 626AB2767AF4910C2F38C468919CCB74;3603.
+(rerunfilecheck)             Checksum: 167898506C7C66E81DBFD510D92DDEC1;3718.
  ) 
 Here is how much of TeX's memory you used:
- 21468 strings out of 478268
- 349251 string characters out of 5846347
- 715989 words of memory out of 5000000
- 38832 multiletter control sequences out of 15000+600000
- 595578 words of font info for 216 fonts, out of 8000000 for 9000
+ 21487 strings out of 478268
+ 349651 string characters out of 5846347
+ 711114 words of memory out of 5000000
+ 38833 multiletter control sequences out of 15000+600000
+ 596972 words of font info for 225 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
  84i,11n,131p,1361b,508s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/libertine/LinBiolinumT.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/libertine/LinBiolinumTB.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/libertine/LinBiolinumTI.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb>
-Output written on setup.pdf (2 pages, 375611 bytes).
+Output written on setup.pdf (3 pages, 382540 bytes).
 PDF statistics:
- 180 PDF objects out of 1000 (max. 8388607)
- 158 compressed objects within 2 object streams
- 45 named destinations out of 1000 (max. 500000)
- 67777 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 192 PDF objects out of 1000 (max. 8388607)
+ 169 compressed objects within 2 object streams
+ 50 named destinations out of 1000 (max. 500000)
+ 67785 words of extra memory for PDF output out of 74296 (max. 10000000)
 
