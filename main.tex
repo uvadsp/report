@@ -35,7 +35,51 @@ What are the requirements that we need in order to make the product. Make a list
 \subsection{Court cases from rechtspraak.nl}
 \subsection{News articles}
 
+\subsection{Requirements}
+
+
+
+These user requirements are derived from the case description provided by the client as well as feedback from the stakeholder during the initial ideation and prototyping phase of the project and where further narrowed down during the project design workshops using the MoSCoW priorization method. The term 'user' in the requirements refers to two specific types of similar target audiences that will make use of our prototype, police agents who want to explore the dataset to gain insights and data analysts who want to filter and compare our datasets.
+
+\begin{enumerate}
+  \item (M) The user must be able to use the prototype on a personal computer and interface with a screen
+  \item (M) The user must be able to filter the datasets to compare different years of data
+  \item (M) The user must be able to filter the datasets to compare different types of drugs
+  \item (M) The user must be able to overlay multiple datasets and trend lines on top of eachother
+  \item (M) The system uses open-source software and not locked-in corporate data tools
+  \item (M) The system has a user-friendly visual design and interaction design
+  \item (S) The user should create an account to store specific and personalized filters
+  \item (S) The user should be able to download the raw datasets in specific file formats
+  \item (S) The user should be able to navigate between different overviews showing corresponding data
+  \item (C) The user could upload their own dataset and sources of specfic drugs and news sources
+  \item (C) The system uses real-time up-to-date API data
+\end{enumerate}
+
 \section{Results}
+
+\subsubsection {Prototype (dashboard)}\hfill
+
+Based on these requirements and the datasets a custom web-based visualization was created to allow the analyst to visualize explore, compare and filter the datasets. When filtering the charts update in real-time with keyframed animations. Screenshots and a live version of the prototype included in appendix 2a. For this prototype demo the user is logged-in with a default user account which is shown in the sidebar navigation. From there the user has four different overview pages to navigate to. \newline
+
+
+\textit{Events overview page}\newline
+The first is an events overview page which shows a line chart with on the x-axis the week numbers per year and a relative score from 0 to 100 on the y-axis for our three datasets, the Google Trends, NOS News data and Twitter tweets. On the left bottom is a legend with a list of drug-related events. The user can click on an event which will highlight the week in which the event occured in the line chart to more clearly visualize peaks in the data which indicate event-based drug popularity. A small description of the event, most popular drug and event dates also is shown. The bottom-right shows the Google Trends data in a relative score over all 5 years of our dataset. This shows more clearly shows the lack of peaks of events in covid pandemic years.
+
+\textit{Region overview page}\newline
+The second page is a chloropleth map page showing the regions of the Netherlands. Each region is color coded using a linear color scale based (blue interpolation) on the relative score of Google searches for that region. On this page the user also has the option to focus on years and drugs but also on specific event dates. This for example shows that in Flevoland when the Lowlands event is happening there are alot of searches in that region for the drugs XTC.
+
+\textit{Related queries page}\newline
+The third page is the related queries page which shows a line chart for our three chosen drugs as filter options. The y-axis is a relative score from 0 to 100 and the x-axis are the week numbers for our specific year. The user can filter between different years. On the bottom are three polar charts which show the related drugs people are searching for with a relative score and a subset of the drugs in the legend. For example, people who search for cocaine also search for crack very often. It also shows that before 2019 GHB was not searched for by many people. It increased in popularity after that year.
+
+\textit{Settings page}\newline
+A settings page is also included. This page shows the different datasets used in the dashboard and a download button which allows the user to download a specific dataset either as .csv or .json to store on their computer.
+
+\subsubsection{Web application}\hfill
+The prototype is a web-based application using web standards and open-source software and libraries. It being web-based allow the dashboard to run operating system independent. Only a webbrowser installed on the users device is required. The application will mainly be used in a desktop environment by the analyst so the dashboard is not fully responsive and not mobile optimized. The web application is created with the open-source front-end framework Svelte \footnote{https://svelte.dev} and UI framework SvelteKit which allows the application to be build in components, each chart is rendered seperately making it more efficient to add functionality (add datasets, render different chart types) in the future but also makes the dashboard performant when more data and charts are added since Svelte already pre-renders the page offloading work from the browser. Working in components and with a frameworks such as Svelte allows future web developers to get up and running fast and add more functionality in a progressively enhanced manner. Svelte can be downloaded as a module (package) from NPM \footnote{https://www.npmjs.com} and uses the JavaScript back-end run-time Node.js \footnote{https://nodejs.org/}. 
+
+For the charts the JavaScript charting library Chart.js \footnote{https://www.chartjs.org} is integrated into the components which allows charts to be rendered in HTML5 Canvas without much configuration. With Chart.js you can add a specific dataset and the scales of the axis will automatically change accordingly to the scale defined by the data. The filter options and updating of the charts is more custom, it uses JavaScript utility functions to allow the data of the to be preprocessed and have only the data changed not the scales of the whole charts. For the map page an additional Chart.js Geo Plugin is used to render the Chloropleth map. It uses a TopoJSON file to render the regions of the Netherlands and filters the properties within that .json file to render a score for each of the region.
+
+The source code for the dashboard is published open-source on GitHub using the MIT license. A live version of the dashboard is contionously deployed on hosting platform Netlify \footnote{https://www.netlify.com}. Corresponding links can be found in appendix 2b.
 
 \section{Conclusion}
 \subsection{Give an answer to the research question}
@@ -43,4 +87,3 @@ What are the requirements that we need in order to make the product. Make a list
 \section{Discussion}
 
 \section{Appendix}
-
