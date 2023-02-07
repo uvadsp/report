@@ -1,5 +1,35 @@
-\begin{document}
-\section
-Data Systems Project
-\end{document}
+\documentclass[sigconf]{acmart}
 
+\usepackage{booktabs}
+\settopmatter{printacmref=false}
+\renewcommand\footnotetextcopyrightpermission[1]{} 
+% removes footnote with conference information in first column
+\usepackage{graphicx, wrapfig, pdfpages}
+
+\begin{document}
+\title{Data Systems Project}
+\subtitle{...}
+
+\author{Ana Chaloska, Anisha Sloeserwij, Danny de Vries, Faye Tervoort, Jesse Kommandeur}
+% \authornote{Sample author note.}
+\affiliation{
+  \institution{University of Amsterdam}
+  \city{Amsterdam} 
+  \country{The Netherlands}
+  }
+
+\begin{abstract}
+    
+\end{abstract}
+
+\keywords{drugs, google trends, court cases, Netherlands, visualization}
+
+\maketitle
+\pagestyle{plain} % removes running headers
+
+\input{main.tex}
+
+\bibliographystyle{ACM-Reference-Format}
+\bibliography{MyBib}
+
+\end{document}
