@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.11)  7 FEB 2023 18:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.11)  7 FEB 2023 19:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -851,28 +851,36 @@ File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )) (./related.tex [1.1{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
-]) (./main.tex
-Underfull \vbox (badness 3088) has occurred while \output is active []
-
+]) (./methodology.tex
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 29.
+(Font)              scaled to size 9.0pt on input line 9.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/it' will be
-(Font)              scaled to size 9.0pt on input line 29.
-
-Underfull \hbox (badness 10000) in paragraph at lines 31--32
-
+(Font)              scaled to size 9.0pt on input line 9.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 6.0pt on input line 33.
+ [2.2]
+Overfull \hbox (2.15613pt too wide) in paragraph at lines 45--46
+ \T1/LinuxBiolinumT-TLF/m/it/9 (-20) 3.2.3 Data pro-cess-ing.[] \T1/LinuxLibertineT-TLF/m/n/9 (-20) Af-ter the se-lected data was col-lected datasets
  []
 
 
+Overfull \hbox (1.57298pt too wide) in paragraph at lines 70--72
+ \T1/LinuxBiolinumT-TLF/m/it/9 (-20) 3.3.1 Hy-poth-e-sis.[] \T1/LinuxLibertineT-TLF/m/n/9 (-20) To iden-tify event-based drug pop-u-lar-ity at events
+ []
+
+[3.3]) (./main.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+
+ []
+
+[4.4]
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 6.0pt on input line 42.
- [2.2]
+(Font)              scaled to size 7.3pt on input line 39.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 7.3pt on input line 47.
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 5.5pt on input line 47.
+(Font)              scaled to size 5.5pt on input line 39.
 )
 No file setup.bbl.
 (/usr/local/texlive/2022/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
@@ -893,23 +901,23 @@ Class acmart Warning: CCS concepts are mandatory for papers over two pages.
 Package balance Warning: You have called \balance in second column
 (balance)                Columns might not be balanced.
 
-[3.3] (./setup.aux)
+[5.5] (./setup.aux)
 Package rerunfilecheck Info: File `setup.out' has not changed.
-(rerunfilecheck)             Checksum: 653AF36E5176CB3C2253AFDB8432E866;2771.
+(rerunfilecheck)             Checksum: 4B161ABFA2BF9A9E772662E253D36E8D;2152.
  ) 
 Here is how much of TeX's memory you used:
- 21489 strings out of 478268
- 349714 string characters out of 5846347
- 719872 words of memory out of 5000000
- 38830 multiletter control sequences out of 15000+600000
- 597977 words of font info for 230 fonts, out of 8000000 for 9000
+ 21523 strings out of 478268
+ 350428 string characters out of 5846347
+ 720479 words of memory out of 5000000
+ 38831 multiletter control sequences out of 15000+600000
+ 600050 words of font info for 243 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
  84i,11n,131p,1315b,404s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/libertine/LinBiolinumT.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/libertine/LinBiolinumTB.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/libertine/LinBiolinumTI.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/txsys.pfb>
-Output written on setup.pdf (3 pages, 410585 bytes).
+Output written on setup.pdf (5 pages, 424866 bytes).
 PDF statistics:
- 168 PDF objects out of 1000 (max. 8388607)
- 143 compressed objects within 2 object streams
- 43 named destinations out of 1000 (max. 500000)
- 67729 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 183 PDF objects out of 1000 (max. 8388607)
+ 156 compressed objects within 2 object streams
+ 54 named destinations out of 1000 (max. 500000)
+ 67721 words of extra memory for PDF output out of 74296 (max. 10000000)
 
