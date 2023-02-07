@@ -1,39 +1,52 @@
+% Set the ACM Template
 \documentclass[sigconf]{acmart}
 
-\usepackage{booktabs}
+% Format (removes footnote)
 \settopmatter{printacmref=false}
 \renewcommand\footnotetextcopyrightpermission[1]{} 
-% removes footnote with conference information in first column
-\usepackage{graphicx, wrapfig, pdfpages}
+
+% Setup packages
+\usepackage{booktabs}
+\usepackage{graphicx}
+\usepackage{multicol}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{fancyhdr}
+\usepackage{float}
+\usepackage{babel}
+\usepackage{subcaption}
+\usepackage{appendix}
+\usepackage{caption}
+\usepackage{booktabs}
+\usepackage{wrapfig}
+\usepackage{pdfpages}
+
+% Set the path for media
+\graphicspath{ {media/} } 
+\pagenumbering{arabic}
 
 \begin{document}
-\title{Narcolands}
-\subtitle{A data driven approach to event based drugs popularity in the Netherlands}
 
-\author{Ana Chaloska, Anisha Sloeserwij, Danny de Vries, Faye Tervoort, Jesse Kommandeur}
-% \authornote{Sample author note.}
-\affiliation{
-  \institution{University of Amsterdam}
-  \city{Amsterdam} 
-  \country{The Netherlands}
-  }
-
-\begin{abstract}
-    
-\end{abstract}
-
-\keywords{drugs, google trends, court cases, Netherlands, visualization}
+% Metadata
+\include{meta/metadata}
+\include{meta/abstract}
+\include{meta/keywords}
+\include{meta/header}
 
 \maketitle
-\pagestyle{plain} % removes running headers
 
-\input{introduction.tex}
-\input{related.tex}
-\input{methodology.tex}
-\input{results.tex}
-\input{main.tex}
+\input{chapters/introduction}
+\input{chapters/related}
+\input{chapters/methodology}
+\input{chapters/results}
+\input{chapters/discussion}
+\input{chapters/conclusion}
+\input{chapters/future}
 
+% Reference format
 \bibliographystyle{ACM-Reference-Format}
-\bibliography{MyBib}
+\bibliography{references}
+
+\include{appendix}
 
 \end{document}

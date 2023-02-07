@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.11)  7 FEB 2023 20:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.11)  7 FEB 2023 20:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -579,141 +579,237 @@ File: T1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for T1/Lin
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 9.0pt on input line 3205.
 )
-Class acmart Info: Suppressing bibformat on input line 4.
- (/usr/local/texlive/2022/texmf-dist/tex/latex/wrapfig/wrapfig.sty
-\wrapoverhang=\dimen193
-\WF@size=\dimen194
-\c@WF@wrappedlines=\count308
-\WF@box=\box59
-\WF@everypar=\toks38
+Class acmart Info: Suppressing bibformat on input line 5.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
+\c@tracingmulticols=\count308
+\mult@box=\box59
+\multicol@leftmargin=\dimen193
+\c@unbalance=\count309
+\c@collectmore=\count310
+\doublecol@number=\count311
+\multicoltolerance=\count312
+\multicolpretolerance=\count313
+\full@width=\dimen194
+\page@free=\dimen195
+\premulticols=\dimen196
+\postmulticols=\dimen197
+\multicolsep=\skip75
+\multicolbaselineskip=\skip76
+\partial@page=\box60
+\last@line=\box61
+\maxbalancingoverflow=\dimen198
+\mult@rightbox=\box62
+\mult@grightbox=\box63
+\mult@firstbox=\box64
+\mult@gfirstbox=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\c@minrows=\count314
+\c@columnbadness=\count315
+\c@finalcolumnbadness=\count316
+\last@try=\dimen199
+\multicolovershoot=\dimen256
+\multicolundershoot=\dimen257
+\mult@nat@firstbox=\box102
+\colbreak@box=\box103
+\mc@col@check@num=\count317
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks38
+\inpenc@posthook=\toks39
+) (/usr/local/texlive/2022/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2022/02/26 3.73 The Babel package
+\babel@savecnt=\count318
+\U@D=\dimen258
+\l@unhyphenated=\language87
+ (/usr/local/texlive/2022/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read3
+\bbl@dirlevel=\count319
+Package babel Info: You haven't specified a language. I'll use 'nil'
+(babel)             as the main language. Reported on input line 4305.
+ (/usr/local/texlive/2022/texmf-dist/tex/generic/babel/nil.ldf
+Language: nil 2022/02/26 3.73 Nil language
+\l@nil=\language88
+)) (/usr/local/texlive/2022/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2022/01/07 v1.5 Sub-captions (AR)
+\c@subfigure=\count320
+\c@subtable=\count321
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/appendix/appendix.sty
+Package: appendix 2020/02/08 v1.2c extra appendix facilities
+\c@@pps=\count322
+\c@@ppsavesec=\count323
+\c@@ppsaveapp=\count324
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen259
+\WF@size=\dimen260
+\c@WF@wrappedlines=\count325
+\WF@box=\box104
+\WF@everypar=\toks40
 Package: wrapfig 2003/01/31  v 3.6
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/pdfpages/pdfpages.sty
 Package: pdfpages 2022/01/29 v0.5u Insert pages of external PDF documents (AM)
  (/usr/local/texlive/2022/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count309
-\calc@Bcount=\count310
-\calc@Adimen=\dimen195
-\calc@Bdimen=\dimen196
-\calc@Askip=\skip75
-\calc@Bskip=\skip76
+\calc@Acount=\count326
+\calc@Bcount=\count327
+\calc@Adimen=\dimen261
+\calc@Bdimen=\dimen262
+\calc@Askip=\skip77
+\calc@Bskip=\skip78
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count311
-\calc@Cskip=\skip77
+\calc@Ccount=\count328
+\calc@Cskip=\skip79
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/eso-pic/eso-pic.sty
 Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
-\ESO@tempdima=\dimen197
-\ESO@tempdimb=\dimen198
+\ESO@tempdima=\dimen263
+\ESO@tempdimb=\dimen264
 )
-\AM@pagewidth=\dimen199
-\AM@pageheight=\dimen256
-\AM@fboxrule=\dimen257
+\AM@pagewidth=\dimen265
+\AM@pageheight=\dimen266
+\AM@fboxrule=\dimen267
  (/usr/local/texlive/2022/texmf-dist/tex/latex/pdfpages/pppdftex.def
 File: pppdftex.def 2022/01/29 v0.5u Pdfpages driver for pdfTeX (AM)
 )
-\pdfpages@includegraphics@status=\count312
-\AM@pagebox=\box60
-\AM@global@opts=\toks39
-\AM@pagecnt=\count313
-\AM@toc@title=\toks40
-\c@AM@survey=\count314
-\AM@templatesizebox=\box61
+\pdfpages@includegraphics@status=\count329
+\AM@pagebox=\box105
+\AM@global@opts=\toks41
+\AM@pagecnt=\count330
+\AM@toc@title=\toks42
+\c@AM@survey=\count331
+\AM@templatesizebox=\box106
 )
-Package hyperref Info: Option `pdfdisplaydoctitle' set `true' on input line 9.
-\c@theorem=\count315
+Package hyperref Info: Option `pdfdisplaydoctitle' set `true' on input line 28.
+\c@theorem=\count332
  (/usr/local/texlive/2022/texmf-dist/tex/latex/preprint/balance.sty
 Package: balance 1999/02/23 4.3 (PWD)
-\oldvsize=\dimen258
+\oldvsize=\dimen268
 ) Excluding comment 'screenonly' Include comment 'printonly' Include comment 'anonsuppress' (/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count316
-\l__pdf_internal_box=\box62
-) (./setup.aux)
+\l__color_backend_stack_int=\count333
+\l__pdf_internal_box=\box107
+) (./setup.aux (./meta/metadata.aux) (./meta/abstract.aux) (./meta/keywords.aux) (./meta/header.aux) (./appendix.aux))
 \openout1 = `setup.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/nxlmi/m/it on input line 9.
-LaTeX Font Info:    Trying to load font information for OML+nxlmi on input line 9.
+LaTeX Font Info:    Checking defaults for OML/nxlmi/m/it on input line 28.
+LaTeX Font Info:    Trying to load font information for OML+nxlmi on input line 28.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/omlnxlmi.fd
 File: omlnxlmi.fd 2013/11/19 Fontinst v1.933 font definitions for OML/nxlmi.
 )
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 9.
-LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 9.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 28.
+LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 28.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 9.
-LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line 9.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 28.
+LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line 28.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/lmsntxsy.fd
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 9.
-LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input line 9.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 28.
+LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input line 28.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/lmxntxexx.fd
 File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 )
-LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    ... okay on input line 28.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 9.
-LaTeX Font Info:    Trying to load font information for OT1+LinuxLibertineT-TLF on input line 9.
+(Font)              scaled to size 7.0pt on input line 28.
+LaTeX Font Info:    Trying to load font information for OT1+LinuxLibertineT-TLF on input line 28.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/libertine/OT1LinuxLibertineT-TLF.fd
 File: OT1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for OT1/LinuxLibertineT-TLF.
 )
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 7.3pt on input line 9.
+(Font)              scaled to size 7.3pt on input line 28.
 <<ot1.cmap>>
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 5.5pt on input line 9.
+(Font)              scaled to size 5.5pt on input line 28.
 <<oml.cmap>>
-LaTeX Font Info:    Trying to load font information for U+msa on input line 9.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 28.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 9.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 28.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 9.
+LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 28.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/untxmia.fd
 File: untxmia.fd 2018/04/14 Fontinst v1.933 font definitions for U/ntxmia.
 )
-LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 9.
+LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 28.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/untxsym.fd
 File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
 )
-LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 9.
+LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 28.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/newtx/untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 )
-LaTeX Info: Redefining \microtypecontext on input line 9.
-Package microtype Info: Applying patch `item' on input line 9.
-Package microtype Info: Applying patch `toc' on input line 9.
-Package microtype Info: Applying patch `eqnum' on input line 9.
-Package microtype Info: Applying patch `footnote' on input line 9.
+LaTeX Info: Redefining \microtypecontext on input line 28.
+Package microtype Info: Applying patch `item' on input line 28.
+Package microtype Info: Applying patch `toc' on input line 28.
+Package microtype Info: Applying patch `eqnum' on input line 28.
+Package microtype Info: Applying patch `footnote' on input line 28.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 9.
+LaTeX Info: Redefining \showhyphens on input line 28.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -721,34 +817,34 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LinuxLibertineT-TLF' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-Package hyperref Info: Link coloring OFF on input line 9.
+Package hyperref Info: Link coloring OFF on input line 28.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (/usr/local/texlive/2022/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count317
+\c@section@level=\count334
 )
-LaTeX Info: Redefining \ref on input line 9.
-LaTeX Info: Redefining \pageref on input line 9.
-LaTeX Info: Redefining \nameref on input line 9.
+LaTeX Info: Redefining \ref on input line 28.
+LaTeX Info: Redefining \pageref on input line 28.
+LaTeX Info: Redefining \nameref on input line 28.
  (./setup.out) (./setup.out)
 \@outlinefile=\write4
 \openout4 = `setup.out'.
 
  (/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count318
-\scratchdimen=\dimen259
-\scratchbox=\box63
-\nofMPsegments=\count319
-\nofMParguments=\count320
-\everyMPshowfont=\toks41
-\MPscratchCnt=\count321
-\MPscratchDim=\dimen260
-\MPnumerator=\count322
-\makeMPintoPDFobject=\count323
-\everyMPtoPDFconversion=\toks42
+\scratchcounter=\count335
+\scratchdimen=\dimen269
+\scratchbox=\box108
+\nofMPsegments=\count336
+\nofMParguments=\count337
+\everyMPshowfont=\toks43
+\MPscratchCnt=\count338
+\MPscratchDim=\dimen270
+\MPnumerator=\count339
+\makeMPintoPDFobject=\count340
+\everyMPtoPDFconversion=\toks44
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -789,8 +885,8 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@mv@tabular=\count324
-\c@mv@boldtabular=\count325
+\c@mv@tabular=\count341
+\c@mv@boldtabular=\count342
 (/usr/local/texlive/2022/texmf-dist/tex/latex/upquote/upquote.sty
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verbatim
 )
@@ -805,91 +901,577 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
+\openout2 = `meta/metadata.aux'.
 
-Class acmart Warning: Do not put several authors in the same \author macro! on input line 13.
+ (./meta/metadata.tex)
+\openout2 = `meta/abstract.aux'.
 
+ (./meta/abstract.tex)
+\openout2 = `meta/keywords.aux'.
+
+ (./meta/keywords.tex)
+\openout2 = `meta/header.aux'.
+
+ (./meta/header.tex)
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 27.
-LaTeX Font Info:    Trying to load font information for T1+LinuxBiolinumT-TLF on input line 27.
-(/usr/local/texlive/2022/texmf-dist/tex/latex/libertine/T1LinuxBiolinumT-TLF.fd
+(Font)              scaled to size 17.28pt on input line 36.
+LaTeX Font Info:    Trying to load font information for T1+LinuxBiolinumT-TLF on input line 36.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/libertine/T1LinuxBiolinumT-TLF.fd
 File: T1LinuxBiolinumT-TLF.fd 2017/03/20 (autoinst) Font definitions for T1/LinuxBiolinumT-TLF.
 )
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 27.
+(Font)              scaled to size 17.28pt on input line 36.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LinuxBiolinumT-TLF' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
-(Font)              scaled to size 17.28pt on input line 27.
+(Font)              scaled to size 17.28pt on input line 36.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 27.
+(Font)              scaled to size 9.0pt on input line 36.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 27.
+(Font)              scaled to size 12.0pt on input line 36.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 27.
+(Font)              scaled to size 12.0pt on input line 36.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 27.
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 27.
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 27.
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 27.
- (./introduction.tex
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
-(Font)              scaled to size 9.0pt on input line 11.
+(Font)              scaled to size 12.0pt on input line 36.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 16.
+(Font)              scaled to size 12.0pt on input line 36.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LinuxLibertineT-TLF' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 8.8pt on input line 36.
+LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 6.6pt on input line 36.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-)) (./related.tex [1.1{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+)
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 10.0pt on input line 36.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
+(Font)              scaled to size 9.0pt on input line 36.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
+(Font)              scaled to size 10.95pt on input line 36.
 
-]) (./methodology.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@halignto' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\hbox' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@acol' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<def>-command' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@preamble' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@classz' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@acol' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<def>-command' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@preamble' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@acol' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<def>-command' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@preamble' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@classiv' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<def>-command' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@preamble' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@tabularcr' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mathsurround' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `alignment tab' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `alignment tab' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `alignment tab' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `alignment tab' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `alignment tab' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `alignment tab' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `alignment tab' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `alignment tab' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\crcr' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@halignto' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\hbox' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@acol' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<def>-command' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@preamble' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@classz' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@acol' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<def>-command' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@preamble' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@acol' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<def>-command' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@preamble' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@classiv' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<def>-command' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@preamble' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@tabularcr' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mathsurround' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `alignment tab' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `alignment tab' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `alignment tab' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `alignment tab' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `alignment tab' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `alignment tab' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `alignment tab' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `alignment tab' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\crcr' on input line 36.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 36.
+
+(./chapters/introduction.tex
+Overfull \hbox (8.63739pt too wide) in paragraph at lines 7--8
+\T1/LinuxLibertineT-TLF/m/n/9 (-20) distribute them. This type of research is important for law enforcement
+ []
+
+
+Overfull \hbox (11.75299pt too wide) in paragraph at lines 9--10
+\T1/LinuxLibertineT-TLF/m/n/9 (-20) the demand-side of illegal drugs. This domain focuses on understanding
+ []
+
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
+(Font)              scaled to size 9.0pt on input line 11.
+LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 9.0pt on input line 16.
+
+Overfull \hbox (21.48105pt too wide) in paragraph at lines 24--25
+\T1/LinuxLibertineT-TLF/m/n/9 (-20) could we identify drug popularity at events?" are crucial for understanding
+ []
+
+
+Overfull \hbox (10.57454pt too wide) in paragraph at lines 24--25
+\T1/LinuxLibertineT-TLF/m/n/9 (-20) the methods and data sources of this research. "What are the differences
+ []
+
+
+Overfull \hbox (3.47638pt too wide) in paragraph at lines 24--25
+\T1/LinuxLibertineT-TLF/m/n/9 (-20) between the specific events and drugs?" helps to identify any patterns
+ []
+
+) (./chapters/related.tex
+Underfull \vbox (badness 5954) has occurred while \output is active []
+
+ [1.1{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
+Overfull \hbox (1.4743pt too wide) in paragraph at lines 9--10
+\T1/LinuxLibertineT-TLF/m/n/9 (-20) behavior, but still contains many improvements in terms of ethicality.
+ []
+
+
+Overfull \hbox (11.54271pt too wide) in paragraph at lines 11--12
+\T1/LinuxLibertineT-TLF/m/n/9 (-20) Another study by Kassraie et al. used Google trends data in combination
+ []
+
+
+Overfull \hbox (7.89513pt too wide) in paragraph at lines 11--12
+\T1/LinuxLibertineT-TLF/m/n/9 (-20) with Twitter data to predict the popularity vote of the 2016 presidential
+ []
+
+) (./chapters/methodology.tex
+Overfull \hbox (8.06485pt too wide) in paragraph at lines 13--1
+\T1/LinuxLibertineT-TLF/m/n/9 (-20) the Google search feature as a possible predictor of Methamphetamine-
+ []
+
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
 (Font)              scaled to size 9.0pt on input line 9.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/it' will be
 (Font)              scaled to size 9.0pt on input line 9.
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 6.0pt on input line 33.
+
+Overfull \hbox (5.33083pt too wide) in paragraph at lines 9--10
+\T1/LinuxLibertineT-TLF/m/n/9 (-20) Netherlands which includes reports on how to address these problems
+ []
+
+
+Overfull \hbox (8.21646pt too wide) in paragraph at lines 31--32
+[]\T1/LinuxLibertineT-TLF/m/n/9 (-20) Dutch news data is a crucial source of information in the assessment
+ []
+
+
+Overfull \hbox (23.88832pt too wide) in paragraph at lines 31--32
+\T1/LinuxLibertineT-TLF/m/n/9 (-20) of event-based drug popularity. It provides a comprehensive understanding
+ []
+
+
+Underfull \vbox (badness 4752) has occurred while \output is active []
+
  [2.2]
+Overfull \hbox (4.17738pt too wide) in paragraph at lines 33--34
+\T1/LinuxLibertineT-TLF/m/n/9 (-20) and media representation, making them a sound choice for answering
+ []
+
+
 Overfull \hbox (2.15613pt too wide) in paragraph at lines 45--46
- \T1/LinuxBiolinumT-TLF/m/it/9 (-20) 3.2.3 Data pro-cess-ing.[] \T1/LinuxLibertineT-TLF/m/n/9 (-20) Af-ter the se-lected data was col-lected datasets
+ \T1/LinuxBiolinumT-TLF/m/it/9 (-20) 3.2.3 Data processing.[] \T1/LinuxLibertineT-TLF/m/n/9 (-20) After the selected data was collected datasets
+ []
+
+
+Overfull \hbox (17.61235pt too wide) in paragraph at lines 48--49
+\T1/LinuxLibertineT-TLF/m/n/9 (-20) standardization of the dates was essential for ensuring consistency
+ []
+
+
+Overfull \hbox (13.77896pt too wide) in paragraph at lines 49--50
+\T1/LinuxLibertineT-TLF/m/n/9 (-20) of one of the sources (Google Trends, 2023). To have a comparable
+ []
+
+
+Underfull \vbox (badness 3884) has occurred while \output is active []
+
+
+Overfull \hbox (2.73503pt too wide) in paragraph at lines 56--57
+\T1/LinuxLibertineT-TLF/m/n/9 (-20) analysis, locational feature extraction, word2vec synonym extraction
+ []
+
+
+Overfull \hbox (6.64223pt too wide) in paragraph at lines 64--65
+\T1/LinuxLibertineT-TLF/m/n/9 (-20) information that could be used to identify individuals or organizations. 
  []
 
 
 Overfull \hbox (1.57298pt too wide) in paragraph at lines 70--72
- \T1/LinuxBiolinumT-TLF/m/it/9 (-20) 3.3.1 Hy-poth-e-sis.[] \T1/LinuxLibertineT-TLF/m/n/9 (-20) To iden-tify event-based drug pop-u-lar-ity at events
+ \T1/LinuxBiolinumT-TLF/m/it/9 (-20) 3.3.1 Hypothesis.[] \T1/LinuxLibertineT-TLF/m/n/9 (-20) To identify event-based drug popularity at events
  []
 
-[3.3]) (./results.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [4.4] [5.5]) (./main.tex
-Underfull \hbox (badness 10000) in paragraph at lines 23--24
-
+[3.3]
+Overfull \hbox (15.47757pt too wide) in paragraph at lines 84--85
+ \T1/LinuxBiolinumT-TLF/m/it/9 (-20) 3.3.3 Computing peaks per event week.[] \T1/LinuxLibertineT-TLF/m/n/9 (-20) The above steps were performed
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Overfull \hbox (4.3253pt too wide) in paragraph at lines 94--95
+[]\T1/LinuxLibertineT-TLF/m/n/9 (-20) Alternative hypothesis (H1): The proportion of peaks observed
+ []
 
+
+Overfull \hbox (12.43515pt too wide) in paragraph at lines 97--98
+[]\T1/LinuxLibertineT-TLF/m/n/9 (-20) Accepting the alternative hypothesis: The p-value was calculated
+ []
+
+
+Overfull \hbox (8.36723pt too wide) in paragraph at lines 97--98
+\T1/LinuxLibertineT-TLF/m/n/9 (-20) from the test statistic. A p-value of less than 0.05 (corresponding
+ []
+
+) (./chapters/results.tex
+Overfull \hbox (2.8057pt too wide) in paragraph at lines 11--12
+\T1/LinuxLibertineT-TLF/m/n/9 (-20) festivals where mainly techno and house music is listened. According
+ []
+
+
+Overfull \hbox (7.74083pt too wide) in paragraph at lines 16--17
+\T1/LinuxLibertineT-TLF/m/n/9 (-20) GayPride and New Year's Eve. The Gay Pride is a multi-day celebration
+ []
+
+
+Overfull \hbox (1.6466pt too wide) in paragraph at lines 16--17
+\T1/LinuxLibertineT-TLF/m/n/9 (-20) During Gay Pride, many Dutch people celebrate freedom of sexuality.
+ []
+
+[4.4]
+Overfull \hbox (6.6392pt too wide) in paragraph at lines 34--35
+\T1/LinuxLibertineT-TLF/m/n/9 (-20) For this research in which drugs and specific events in the Netherlands
+ []
+
+
+Overfull \hbox (4.84773pt too wide) in paragraph at lines 38--39
+\T1/LinuxLibertineT-TLF/m/n/9 (-20) population in recent years. This figure shows that the most commonly
+ []
+
+[5.5]
+Overfull \hbox (5.06825pt too wide) in paragraph at lines 78--79
+[]\T1/LinuxLibertineT-TLF/m/n/9 (-20) Concerning the last subquestion `What are the differences between
+ []
+
+
+Overfull \hbox (4.54665pt too wide) in paragraph at lines 78--79
+\T1/LinuxLibertineT-TLF/m/n/9 (-20) the specific events. The statistics of the proportion tests demonstrated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
+
+ []
+
+
+Underfull \vbox (badness 4752) has occurred while \output is active []
+
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 7.3pt on input line 99.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 5.5pt on input line 99.
  [6.6]
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 7.3pt on input line 39.
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 5.5pt on input line 39.
+Overfull \hbox (6.70131pt too wide) in paragraph at lines 101--102
+[]\T1/LinuxLibertineT-TLF/m/n/9 (-20) For the charts the JavaScript charting library Chart.js [][][] is integrated
+ []
 
-Underfull \vbox (badness 7796) has occurred while \output is active []
+) (./chapters/discussion.tex) (./chapters/conclusion.tex) (./chapters/future.tex)
+Overfull \hbox (5.21829pt too wide) in paragraph at lines 12--45
+\T1/LinuxLibertineT-TLF/m/n/9 (-20) data-gathering tools fare good indicators for predicting the popularity
+ []
 
-)
-No file setup.bbl.
-(/usr/local/texlive/2022/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
+(./setup.bbl
+
+Package natbib Warning: Empty `thebibliography' environment on input line 40.
+
+) [7.7]
+\openout2 = `appendix.aux'.
+
+ (./appendix.tex) (/usr/local/texlive/2022/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
 File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
 ) (/usr/local/texlive/2022/texmf-dist/tex/generic/stringenc/se-utf8.def
 File: se-utf8.def 2019/11/29 v1.12 stringenc: UTF-8
@@ -903,27 +1485,23 @@ Class acmart Warning: ACM reference format is mandatory
 
 Class acmart Warning: CCS concepts are mandatory for papers over two pages.
 
-
-Package balance Warning: You have called \balance in second column
-(balance)                Columns might not be balanced.
-
-[7.7] (./setup.aux)
+(./setup.aux (./meta/metadata.aux) (./meta/abstract.aux) (./meta/keywords.aux) (./meta/header.aux) (./appendix.aux))
 Package rerunfilecheck Info: File `setup.out' has not changed.
-(rerunfilecheck)             Checksum: BB127B9FCA489890664FD29DFE172352;2811.
+(rerunfilecheck)             Checksum: 96FA37B27C2CAFD08A7701ED8C304B97;2495.
  ) 
 Here is how much of TeX's memory you used:
- 21551 strings out of 478268
- 350822 string characters out of 5846347
- 719967 words of memory out of 5000000
- 38837 multiletter control sequences out of 15000+600000
- 600323 words of font info for 245 fonts, out of 8000000 for 9000
+ 23035 strings out of 478268
+ 379593 string characters out of 5846347
+ 753054 words of memory out of 5000000
+ 40259 multiletter control sequences out of 15000+600000
+ 610110 words of font info for 275 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 84i,11n,131p,1315b,497s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,11n,131p,1323b,509s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/libertine/LinBiolinumT.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/libertine/LinBiolinumTB.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/libertine/LinBiolinumTI.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/txsys.pfb>
-Output written on setup.pdf (7 pages, 438533 bytes).
+Output written on setup.pdf (7 pages, 436386 bytes).
 PDF statistics:
- 222 PDF objects out of 1000 (max. 8388607)
- 193 compressed objects within 2 object streams
- 70 named destinations out of 1000 (max. 500000)
- 67753 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 201 PDF objects out of 1000 (max. 8388607)
+ 172 compressed objects within 2 object streams
+ 57 named destinations out of 1000 (max. 500000)
+ 69785 words of extra memory for PDF output out of 74296 (max. 10000000)
 
