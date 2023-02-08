@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.11)  8 FEB 2023 17:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.11)  8 FEB 2023 17:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1466,7 +1466,25 @@ Overfull \hbox (6.70131pt too wide) in paragraph at lines 101--102
 []\T1/LinuxLibertineT-TLF/m/n/9 (-20) For the charts the JavaScript charting library Chart.js [][][] is integrated
  []
 
-) (./chapters/conclusion.tex) (./chapters/discussion.tex [7.7]) (./chapters/future.tex) (./chapters/acknowledgement.tex
+) (./chapters/conclusion.tex
+Overfull \hbox (2.4653pt too wide) in paragraph at lines 113--1
+[]\T1/LinuxLibertineT-TLF/m/n/9 (-20) Examples of incorporated feedback from the test where improving
+ []
+
+
+Overfull \hbox (4.46536pt too wide) in paragraph at lines 113--1
+\T1/LinuxLibertineT-TLF/m/n/9 (-20) the visual design mainly by adding secondary colors to have sufficient
+ []
+
+
+Overfull \hbox (9.90822pt too wide) in paragraph at lines 113--1
+\T1/LinuxLibertineT-TLF/m/n/9 (-20) color contrast, add descriptions and labels of the icons in the navigation
+ []
+
+[7.7]) (./chapters/discussion.tex) (./chapters/future.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+) (./chapters/acknowledgement.tex
 Overfull \hbox (5.21829pt too wide) in paragraph at lines 12--1
 \T1/LinuxLibertineT-TLF/m/n/9 (-20) data-gathering tools fare good indicators for predicting the popularity
  []
@@ -1476,13 +1494,9 @@ Overfull \hbox (15.79561pt too wide) in paragraph at lines 3--46
 \T1/LinuxLibertineT-TLF/m/n/9 (-20) We thank supervisor Prof. dr. T.M. van Engers (University of Amsterdam)
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- (./setup.bbl
-
-Package natbib Warning: Empty `thebibliography' environment on input line 40.
-
+(./setup.bbl
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
+(Font)              scaled to size 7.0pt on input line 44.
 ) [8.8]
 \openout2 = `appendix.aux'.
 
@@ -1505,18 +1519,18 @@ Package rerunfilecheck Info: File `setup.out' has not changed.
 (rerunfilecheck)             Checksum: E574991E8EFC9A3F6C88342CB2B3D1F3;3136.
  ) 
 Here is how much of TeX's memory you used:
- 23069 strings out of 478268
- 380158 string characters out of 5846347
- 753986 words of memory out of 5000000
- 40266 multiletter control sequences out of 15000+600000
- 611015 words of font info for 280 fonts, out of 8000000 for 9000
+ 23085 strings out of 478268
+ 380505 string characters out of 5846347
+ 754063 words of memory out of 5000000
+ 40276 multiletter control sequences out of 15000+600000
+ 616545 words of font info for 283 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
  84i,12n,131p,1323b,420s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/libertine/LinBiolinumT.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/libertine/LinBiolinumTB.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/libertine/LinBiolinumTI.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/txsys.pfb>
-Output written on setup.pdf (8 pages, 447788 bytes).
+Output written on setup.pdf (8 pages, 447785 bytes).
 PDF statistics:
- 238 PDF objects out of 1000 (max. 8388607)
- 207 compressed objects within 3 object streams
- 74 named destinations out of 1000 (max. 500000)
- 69817 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 240 PDF objects out of 1000 (max. 8388607)
+ 209 compressed objects within 3 object streams
+ 75 named destinations out of 1000 (max. 500000)
+ 73913 words of extra memory for PDF output out of 74296 (max. 10000000)
 
