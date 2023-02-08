@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.11)  7 FEB 2023 21:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.11)  8 FEB 2023 17:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1291,6 +1291,11 @@ Overfull \hbox (3.47638pt too wide) in paragraph at lines 24--25
  []
 
 ) (./chapters/related.tex
+Overfull \hbox (1.26196pt too wide) in paragraph at lines 7--8
+\T1/LinuxLibertineT-TLF/m/n/9 (-20) where Google Trends can help support the prediction of the outbreak
+ []
+
+
 Underfull \vbox (badness 5954) has occurred while \output is active []
 
  [1.1{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
@@ -1308,25 +1313,16 @@ Underfull \vbox (badness 5954) has occurred while \output is active []
 
 
 ]
-Overfull \hbox (1.4743pt too wide) in paragraph at lines 9--10
-\T1/LinuxLibertineT-TLF/m/n/9 (-20) behavior, but still contains many improvements in terms of ethicality.
+Overfull \hbox (3.14287pt too wide) in paragraph at lines 13--14
+\T1/LinuxLibertineT-TLF/m/n/9 (-20) already occurred. For this reason, the domain and effects of predictive
  []
 
 
-Overfull \hbox (11.54271pt too wide) in paragraph at lines 11--12
-\T1/LinuxLibertineT-TLF/m/n/9 (-20) Another study by Kassraie et al. used Google trends data in combination
- []
-
-
-Overfull \hbox (7.89513pt too wide) in paragraph at lines 11--12
-\T1/LinuxLibertineT-TLF/m/n/9 (-20) with Twitter data to predict the popularity vote of the 2016 presidential
+Overfull \hbox (6.15771pt too wide) in paragraph at lines 15--16
+\T1/LinuxLibertineT-TLF/m/n/9 (-20) behaviour, but still contains many improvements in terms of ethicality.
  []
 
 ) (./chapters/methodology.tex
-Overfull \hbox (8.06485pt too wide) in paragraph at lines 13--1
-\T1/LinuxLibertineT-TLF/m/n/9 (-20) the Google search feature as a possible predictor of Methamphetamine-
- []
-
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
 (Font)              scaled to size 9.0pt on input line 9.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/it' will be
@@ -1337,6 +1333,9 @@ Overfull \hbox (5.33083pt too wide) in paragraph at lines 9--10
  []
 
 
+Underfull \vbox (badness 4752) has occurred while \output is active []
+
+ [2.2]
 Overfull \hbox (8.21646pt too wide) in paragraph at lines 31--32
 []\T1/LinuxLibertineT-TLF/m/n/9 (-20) Dutch news data is a crucial source of information in the assessment
  []
@@ -1347,9 +1346,6 @@ Overfull \hbox (23.88832pt too wide) in paragraph at lines 31--32
  []
 
 
-Underfull \vbox (badness 4752) has occurred while \output is active []
-
- [2.2]
 Overfull \hbox (4.17738pt too wide) in paragraph at lines 33--34
 \T1/LinuxLibertineT-TLF/m/n/9 (-20) and media representation, making them a sound choice for answering
  []
@@ -1368,9 +1364,6 @@ Overfull \hbox (17.61235pt too wide) in paragraph at lines 48--49
 Overfull \hbox (13.77896pt too wide) in paragraph at lines 49--50
 \T1/LinuxLibertineT-TLF/m/n/9 (-20) of one of the sources (Google Trends, 2023). To have a comparable
  []
-
-
-Underfull \vbox (badness 3884) has occurred while \output is active []
 
 
 Overfull \hbox (2.73503pt too wide) in paragraph at lines 56--57
@@ -1407,7 +1400,17 @@ Overfull \hbox (8.36723pt too wide) in paragraph at lines 97--98
 \T1/LinuxLibertineT-TLF/m/n/9 (-20) from the test statistic. A p-value of less than 0.05 (corresponding
  []
 
-) (./chapters/results.tex
+
+Overfull \hbox (6.31621pt too wide) in paragraph at lines 103--104
+\T1/LinuxLibertineT-TLF/m/it/9 (-20) GIVE INTRODUCTION ABOUT: interface (visualization/controllability).
+ []
+
+
+Overfull \hbox (8.69629pt too wide) in paragraph at lines 113--114
+[]\T1/LinuxLibertineT-TLF/m/n/9 (-20) (M) The system has a user-friendly visual design and interaction
+ []
+
+) (./chapters/results.tex [4.4]
 Overfull \hbox (2.8057pt too wide) in paragraph at lines 11--12
 \T1/LinuxLibertineT-TLF/m/n/9 (-20) festivals where mainly techno and house music is listened. According
  []
@@ -1422,7 +1425,7 @@ Overfull \hbox (1.6466pt too wide) in paragraph at lines 16--17
 \T1/LinuxLibertineT-TLF/m/n/9 (-20) During Gay Pride, many Dutch people celebrate freedom of sexuality.
  []
 
-[4.4]
+
 Overfull \hbox (6.6392pt too wide) in paragraph at lines 34--35
 \T1/LinuxLibertineT-TLF/m/n/9 (-20) For this research in which drugs and specific events in the Netherlands
  []
@@ -1432,7 +1435,10 @@ Overfull \hbox (4.84773pt too wide) in paragraph at lines 38--39
 \T1/LinuxLibertineT-TLF/m/n/9 (-20) population in recent years. This figure shows that the most commonly
  []
 
-[5.5]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5.5]
 Overfull \hbox (5.06825pt too wide) in paragraph at lines 78--79
 []\T1/LinuxLibertineT-TLF/m/n/9 (-20) Concerning the last subquestion `What are the differences between
  []
@@ -1448,27 +1454,36 @@ Underfull \hbox (badness 10000) in paragraph at lines 83--84
  []
 
 
-Underfull \vbox (badness 4752) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [6.6]
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 7.3pt on input line 99.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 5.5pt on input line 99.
- [6.6]
+
 Overfull \hbox (6.70131pt too wide) in paragraph at lines 101--102
 []\T1/LinuxLibertineT-TLF/m/n/9 (-20) For the charts the JavaScript charting library Chart.js [][][] is integrated
  []
 
-) (./chapters/discussion.tex) (./chapters/conclusion.tex) (./chapters/future.tex) (./chapters/acknowledgement.tex
+) (./chapters/conclusion.tex) (./chapters/discussion.tex [7.7]) (./chapters/future.tex) (./chapters/acknowledgement.tex
 Overfull \hbox (5.21829pt too wide) in paragraph at lines 12--1
 \T1/LinuxLibertineT-TLF/m/n/9 (-20) data-gathering tools fare good indicators for predicting the popularity
  []
 
-) (./setup.bbl
+)
+Overfull \hbox (15.79561pt too wide) in paragraph at lines 3--46
+\T1/LinuxLibertineT-TLF/m/n/9 (-20) We thank supervisor Prof. dr. T.M. van Engers (University of Amsterdam)
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ (./setup.bbl
 
 Package natbib Warning: Empty `thebibliography' environment on input line 40.
 
-) [7.7]
+) [8.8]
 \openout2 = `appendix.aux'.
 
  (./appendix.tex) (/usr/local/texlive/2022/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
@@ -1487,21 +1502,21 @@ Class acmart Warning: CCS concepts are mandatory for papers over two pages.
 
 (./setup.aux (./meta/metadata.aux) (./meta/abstract.aux) (./meta/keywords.aux) (./meta/header.aux) (./appendix.aux))
 Package rerunfilecheck Info: File `setup.out' has not changed.
-(rerunfilecheck)             Checksum: BE5B4956BCE9D2EF3E504E9CD82D8F6C;2627.
+(rerunfilecheck)             Checksum: E574991E8EFC9A3F6C88342CB2B3D1F3;3136.
  ) 
 Here is how much of TeX's memory you used:
- 23043 strings out of 478268
- 379790 string characters out of 5846347
- 753023 words of memory out of 5000000
- 40263 multiletter control sequences out of 15000+600000
- 610110 words of font info for 275 fonts, out of 8000000 for 9000
+ 23069 strings out of 478268
+ 380158 string characters out of 5846347
+ 753986 words of memory out of 5000000
+ 40266 multiletter control sequences out of 15000+600000
+ 611015 words of font info for 280 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 84i,11n,131p,1323b,509s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,12n,131p,1323b,420s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/libertine/LinBiolinumT.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/libertine/LinBiolinumTB.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/libertine/LinBiolinumTI.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx/txsys.pfb>
-Output written on setup.pdf (7 pages, 436726 bytes).
+Output written on setup.pdf (8 pages, 447788 bytes).
 PDF statistics:
- 205 PDF objects out of 1000 (max. 8388607)
- 176 compressed objects within 2 object streams
- 58 named destinations out of 1000 (max. 500000)
- 69793 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 238 PDF objects out of 1000 (max. 8388607)
+ 207 compressed objects within 3 object streams
+ 74 named destinations out of 1000 (max. 500000)
+ 69817 words of extra memory for PDF output out of 74296 (max. 10000000)
 
