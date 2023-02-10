@@ -2,6 +2,8 @@
 
 > LaTeX hosted-version of the written report for the project
 
+![GitHub banner](/docs/banner.jpg)
+
 ## Description
 
 Written report for the Data Systems Project for the University of Amsterdam Information Studies with the Police Academy as client.
